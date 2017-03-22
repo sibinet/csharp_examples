@@ -3,11 +3,11 @@
 
 I would like to share some codes that may be useful for you and for my furure reference. 
 
-<b>Code Example</b>
+<h2>Code Example</h2>
 
-1) Send Event Appointment GMail and Outlook.
-   Added an example code in C# to send an invitation to Gmail/Outlook users to accept and join events. 
+<b>Send Event Appointment GMail and Outlook.</b>
+    <p>Added an example code in C# to send an invitation to Gmail/Outlook users to accept and join events. </p>
 
-2) File Flush
-   C# Codes to delete all files and sub folders with Log.
+<b> File Flush</b>
+    <p>C# Codes to delete all files and sub folders with Log.</p>
    
