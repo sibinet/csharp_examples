@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "send_appointment", "send_ap
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileFlush", "FileFlush\FileFlush.csproj", "{6203A52D-F3FC-4D72-9BA2-F810FE6D39D3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SanitizeFileName", "SanitizeFileName\SanitizeFileName.csproj", "{6ED40D04-8B5A-4676-A213-150C3D40D7DF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6203A52D-F3FC-4D72-9BA2-F810FE6D39D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6203A52D-F3FC-4D72-9BA2-F810FE6D39D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6203A52D-F3FC-4D72-9BA2-F810FE6D39D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ED40D04-8B5A-4676-A213-150C3D40D7DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ED40D04-8B5A-4676-A213-150C3D40D7DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ED40D04-8B5A-4676-A213-150C3D40D7DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ED40D04-8B5A-4676-A213-150C3D40D7DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
