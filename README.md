@@ -10,4 +10,6 @@ I would like to share some codes that may be useful for you and for my furure re
 
 <b> File Flush</b>
     <p>C# Codes to delete all files and sub folders with Log.</p>
-   
+<b>Sanitize File Name</b>
+    <p>C# Codes to create clean filenames.</p>
+    
